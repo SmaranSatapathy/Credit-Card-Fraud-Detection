@@ -66,12 +66,6 @@ In the digital economy, fraudulent transactions pose a critical threat to indivi
 
 ---
 
-## 📝 Limitations
-
-- Currently not designed for **real-time fraud detection**
-- No **continuous learning** to adapt to emerging fraud patterns
-- Single model vulnerability to adversarial attacks
-
 ---
 
 ## 💡 Future Scope
@@ -85,9 +79,9 @@ In the digital economy, fraudulent transactions pose a critical threat to indivi
 
 ## 👨‍💻 Authors
 
-- Subhasish Nahak  
-- Ansujit Dalei  
 - Smaran Satapathy
+- Ansujit Dalei  
+- Subhasish Nahak  
 
 > Guided by **Jagseer Singh Sir**, Department of CSE (AI & ML), Siksha 'O' Anusandhan University
 
